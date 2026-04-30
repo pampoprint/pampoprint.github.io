@@ -1,0 +1,1 @@
+We sell custom-designed apparel and accessories, including t-shirts, hoodies, caps, and mugs featuring original prints. Our products focus on developer humor, tech culture, and minimalist design, and are produced on demand.
