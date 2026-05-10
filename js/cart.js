@@ -5,7 +5,7 @@ let MAX_PRODUCT_COUNT=10,cart,country,imageIndex={};function loadCart(){var e=JS
             <p class="text-gray-500 dark:text-gray-400">${formatCurrency(r.price[currency])}</p>
           </div>
           <div class="mt-4 flex gap-3 items-center justify-between">
-            <div class="relative flex items-center max-w-[8rem]">
+            <div class="relative flex items-center max-w-32">
               <button type="button" onclick="decrementItem('${a}')"
                 class="cursor-pointer bg-gray-100 dark:bg-gray-700 dark:hover:bg-gray-600 dark:border-gray-600 hover:bg-gray-200 border border-gray-300 rounded-s-lg px-3 h-12 focus:ring-gray-100 dark:focus:ring-gray-700 focus:ring-2 focus:outline-none">
                 <svg class="w-3 h-3 text-gray-900 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 2">
